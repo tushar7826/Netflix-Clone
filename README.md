@@ -2,7 +2,7 @@
 
 A responsive, static frontend clone of the Netflix landing page built using modern CSS layout techniques including CSS Grid, Flexbox, and Media Queries.
 
-![Netflix Clone Demo](assets/images/preview.png) *(Optional: Replace with your actual screenshot path)*
+![Netflix Clone Demo](assets/images/preview.png)
 
 ## 🚀 Live Demo
 
